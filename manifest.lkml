@@ -11,4 +11,5 @@ visualization: {
   id: "report_table"
   label: "Report Table Local"
   file: "report_table/report_table.js"
+  dependencies: ["report_table/yarn.lock"]
 }
