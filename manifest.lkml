@@ -9,6 +9,6 @@ project_name: "local_custom_viz"
 
 visualization: {
   id: "report_table"
-  label: "Report Table"
+  label: "Report Table Local"
   file: "report_table/report_table.js"
 }
